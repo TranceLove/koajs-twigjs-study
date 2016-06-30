@@ -1,0 +1,11 @@
+{
+  "name": "koajs-twigjs-study",
+  "description": "Study on integrating koajs with twig.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "koa-views": "^4.1.0",
+    "twig": "^0.9.5"
+  }
+}
